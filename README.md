@@ -19,7 +19,5 @@ Students and Groups with Plugins
 
 ![Экспорт студента](/export1.png)
 ![Экспорт группы](/export2.png)
-
-![Информация о стипендии](/grants.png)
-
+![Информация о стипендии](/Grants.png)
 ![Настройки](/config.png)
